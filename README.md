@@ -8,14 +8,12 @@ This repository contains my personal collection of data structures and algorithm
 - Algorithm solutions and examples
 - Practice problems and solutions
 
-## Languages
+## Language
 
-Code implementations in multiple programming languages including but not limited to:
-- C/C++
-- Java
-- Python
-- JavaScript
+Code implementations in C++.
 
 ---
 
 *Personal coding practice and reference collection*
+
+**Harsh Gidwani**
