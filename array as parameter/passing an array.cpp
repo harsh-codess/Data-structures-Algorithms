@@ -20,7 +20,7 @@ int main() {
 
  for (int i = 0; i<szn; i++) 
  cout << p1[i];
- 
+ delete[] p1;
 return 0;
 
 
