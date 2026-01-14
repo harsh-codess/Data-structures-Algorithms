@@ -1,1 +1,7 @@
+# Exclude all output directories
+**/output/
 output/
+
+# Exclude executable files
+*.exe
+*.out
